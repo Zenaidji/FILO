@@ -1,7 +1,7 @@
 package threestacktest;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import ThreeStack from treestack;
+import threestack.ThreeStack;
 
 public class ThreeStackTest {
   @Test
